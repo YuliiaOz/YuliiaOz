@@ -57,9 +57,17 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuliiaOz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YuliiaOz&theme=nightowl&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliiaOz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuliiaOz&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+### 😆: Daily Random Joke :
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=material-palenight&hideBorder)
+
 
 
 <!--
