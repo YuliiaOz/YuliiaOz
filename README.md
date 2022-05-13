@@ -69,7 +69,7 @@ I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=material-palenight&hideBorder)
 
 
-
+<footer align='center'>README was made with help of <a href='https://github.com/sitepoint-editors/sitepoint-github-profile'>gitsZed0/sitepoint-github-profile</a> </footer>
 <!--
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
