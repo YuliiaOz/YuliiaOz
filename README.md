@@ -26,7 +26,7 @@
 I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Polytechnique Montreal
 - :computer: Completed my first year of software engineering 
 
-- :seedling: I'm still a noob at coding, but I love to learn new things
+- :seedling: I love to learn new things
 
 - :video_game: In my free time, I love to play video games! 
 
