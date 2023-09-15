@@ -24,7 +24,7 @@
 
 ### :woman_technologist: About Me :
 I am a student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Polytechnique Montreal
-- :computer: Completed my first year of software engineering 
+- :computer: Currently in my third year of software engineering 
 
 - :seedling: I'm still a noob at coding, but I love to learn new things
 
